@@ -4,7 +4,7 @@
 
 SpeechSEC introduces an innovative multi-task framework aimed at handling speech synthesis, speech editing, and speech continuation tasks simultaneously. By dynamically adjusting input conditions, SpeechSEC not only improves speech synthesis performance in terms of speech intelligibility, audio quality, and voice preservation but also efficiently performs editing and continuation tasks using non-autoregressive techniques.
 
-[Demo Page](https://github.com/SpeechSEC/demo)
+
 
 
 
